@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//github.com/DmytroNahornyi/Cosmetics/static/css/main.7acaea2f.css",
+    "main.js": "//github.com/DmytroNahornyi/Cosmetics/static/js/main.07d3183d.js",
+    "index.html": "//github.com/DmytroNahornyi/Cosmetics/index.html",
+    "main.7acaea2f.css.map": "//github.com/DmytroNahornyi/Cosmetics/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "//github.com/DmytroNahornyi/Cosmetics/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
